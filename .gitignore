@@ -1,0 +1,9 @@
+/vendor/
+/.idea/
+/composer.lock
+/.phpunit.result.cache
+/.phpunit.cache
+/.phpstan/
+/coverage-html/
+/coverage.xml
+.DS_Store

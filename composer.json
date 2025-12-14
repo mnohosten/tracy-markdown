@@ -1,0 +1,40 @@
+{
+    "name": "mnohosten/tracy-markdown",
+    "description": "Tracy debugger extension that allows copying error reports as Markdown - useful for AI-assisted development",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mnohosten",
+            "email": "info@mnohosten.cz"
+        }
+    ],
+    "keywords": [
+        "tracy",
+        "debugger",
+        "markdown",
+        "error-reporting",
+        "ai-development",
+        "debugging"
+    ],
+    "require": {
+        "php": ">=8.0",
+        "tracy/tracy": "^2.9"
+    },
+    "require-dev": {
+        "phpstan/phpstan": "^1.0",
+        "phpunit/phpunit": "^10.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Mnohosten\\TracyMarkdown\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Mnohosten\\TracyMarkdown\\Tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
