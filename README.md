@@ -426,8 +426,6 @@ Built with:
 ## Support
 
 - **Issues**: [GitHub Issues](https://github.com/mnohosten/tracy-markdown/issues)
-- **Documentation**: [GitHub Wiki](https://github.com/mnohosten/tracy-markdown/wiki)
-- **Discussions**: [GitHub Discussions](https://github.com/mnohosten/tracy-markdown/discussions)
 
 ---
 
